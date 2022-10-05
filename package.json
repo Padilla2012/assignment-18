@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "assignment-18",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Padilla2012/assignment-18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Padilla2012/assignment-18/issues"
+  },
+  "homepage": "https://github.com/Padilla2012/assignment-18#readme"
+}
